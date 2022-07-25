@@ -1,4 +1,4 @@
-from series import fibonacci, lucas
+from math_series.series import fibonacci
 
 
 def test_fibonacci_input0():
